@@ -1,6 +1,6 @@
 This is a sample
 This is sudeshna tech writing ###
-## Overview of the iPhone 12 model:
+# Overview of the iPhone 12 model:
 
 The iPhone 12 represents Apple's latest smartphone, released in 2020. It features a sleek design comprising a ceramic shield front cover, aerospace-grade aluminum edges, and a glass back.
 

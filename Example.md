@@ -1,8 +1,8 @@
 # iPhone 12 User Guide
 
 ## 1. Introduction
-- Overview of the iPhone 12 model.
-- Unboxing instructions and what is included.
+Overview of the iPhone 12 model.
+Unboxing instructions and what is included.
 
 ## 2. Getting Started
 - Turning the device on and off.

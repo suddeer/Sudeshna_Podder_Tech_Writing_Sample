@@ -35,9 +35,20 @@ Managing privacy settings for apps and data.
 # 9. Troubleshooting and Support
 Common issues and troubleshooting steps.
 
-<"![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)" width="300" height="200">
 
+### 1. Introduction
 
-<img src="![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)" width="300" height="200">
+**Overview of the iPhone 12 model:**
+
+The iPhone 12, released in 2020, presents a stylish design featuring a ceramic shield front, aerospace-grade aluminum edges, and a glass back. Its Super Retina XDR display delivers vivid colors and high resolution, creating a captivating viewing experience. Powered by the A14 Bionic chip, the iPhone 12 offers fast and efficient performance across various tasks. It brings 5G capability for faster internet speeds and better connectivity. With various storage capacities and colors, the iPhone 12 provides a range of options to match individual preferences.
+
+**Unboxing iPhone 12 and Included Items:**
+
+Upon unboxing the iPhone 12, you will find the handset along with essential accessories. The box typically includes:
+- The iPhone 12 device itself
+- One USB-C to Lightning cable utilized for charging and data transfer purposes
+- Accompanying documentation such as user guides and warranty information
+
+As part of our environmental efforts, the iPhone 12 packaging does not include a power adapter or EarPods. Instead, you'll find a USB‑C to Lightning cable for fast charging, compatible with USB‑C power adapters, and computer ports. You can use your existing USB‑A to Lightning cables, power adapters, and headphones with this iPhone 12. Apple power adapters or headphones are available for purchase separately if you want it.
 
 

@@ -35,7 +35,7 @@ Managing privacy settings for apps and data.
 # 9. Troubleshooting and Support
 Common issues and troubleshooting steps.
   
-![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)
+
 
 <img src="![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)" width="300" height="200">
 

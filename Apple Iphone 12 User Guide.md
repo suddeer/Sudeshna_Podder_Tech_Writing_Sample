@@ -2,6 +2,7 @@
 
 # 1. Introduction
 Overview of the iPhone 12 model.
+
 Unboxing instructions and what is included.
 
 # 2. Getting Started

@@ -36,3 +36,8 @@
 - Common issues and troubleshooting steps.
 
 - https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png
+![iPhone Image](https:[//github.com/yourusername/yourrepository/raw/main/images/iphone.png](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)
+
+
+![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)
+

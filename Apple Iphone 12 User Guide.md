@@ -37,6 +37,6 @@ Common issues and troubleshooting steps.
   
 ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)
 
-<img src="![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)" alt="Alt text" width="300" height="200">
+<img src="![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)" width="300" height="200">
 
 

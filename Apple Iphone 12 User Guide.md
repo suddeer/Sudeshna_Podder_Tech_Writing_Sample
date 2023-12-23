@@ -17,11 +17,11 @@ Making calls, managing contacts, and voicemail.
 Sending and receiving messages, using iMessage.
 
 # 5. Camera and Photos
-Using the camera app, taking photos, and recording videos.
+Using the camera app, taking photos, and recording videos.  
 Editing photos, organizing albums, and sharing media.
 
 # 6. Apps and Features
-Overview of pre-installed apps (Safari, Mail, Maps, etc.).
+Overview of pre-installed apps (Safari, Mail, Maps, etc.).  
 Explaining features like Siri, Apple Pay, and Health.
 
 # 7. Settings and Customization

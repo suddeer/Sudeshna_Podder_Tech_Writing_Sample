@@ -125,11 +125,13 @@ Face ID provides secure and convenient access to your device by scanning your un
 1. Open **Settings**, tap **Face ID & Passcode**.
 2. Scroll down and activate **Face ID with a Mask**.
 3. If prompted, select **Use Face ID with a Mask**, following the onscreen guidelines for Face ID setup using the same facial scanning process.
-4. **Ensure** the face mask is not positioned too high or close to your eyes, as this might hinder Face ID from unlocking your iPhone.
+4.  **Ensure** the face mask is not positioned too high or close to your eyes, as this might hinder Face ID from unlocking your iPhone.
 
    **Face ID** requires unobstructed eyes for authentication.
 
    Note that Face ID isn't functional in landscape mode when a mask is worn.
+
+   ![iPhone Image](https://github.com/https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_setup_faceid_facemask.png)
 
 
 

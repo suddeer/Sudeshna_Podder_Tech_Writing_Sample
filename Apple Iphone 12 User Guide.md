@@ -102,7 +102,6 @@ Face ID provides secure and convenient access to your device by scanning your un
 
 - **Setting Up Face ID**:
   
-Setting Up Face ID:
 1. Open Settings, tap Face ID & Passcode.
 2. Hold your iPhone in portrait orientation, and align your face with the device.
 3. Tap Get Started.

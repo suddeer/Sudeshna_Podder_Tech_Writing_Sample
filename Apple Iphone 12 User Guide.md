@@ -96,4 +96,21 @@ Control Centre provides instant access to functions you like the most. It allows
 On the iPhone 12, swipe down from the top right-hand corner of the screen to open the Control Center. To close it, swipe up from the bottom or tap the screen. Be
 cautious, as swiping too close to the center at the top might accidentally open Notification Centre instead of Control Centre. Adjust settings by tapping or pressing these controls.
 
+**Using Face ID for Authentication** :
+
+Face ID provides secure and convenient access to your device by scanning your unique facial features for authentication.
+
+- **Setting Up Face ID**:
+  
+1.Open Settings, tap Face ID & Passcode.
+2.Hold your iPhone in portrait orientation, and align your face with the device.
+3.Tap Get Started.
+4.Position your face within the frame and slowly move your head to complete
+the circle.
+5.If head movement is not possible, tap on Accessibility Options.
+6.Once the first Face ID scan is done, tap Continue.
+7.Gently move your head to complete the circle for a second time.
+8.Finally, tap Done. Your Face ID setup is complete.
+
+
 

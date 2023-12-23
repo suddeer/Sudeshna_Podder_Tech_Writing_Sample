@@ -40,7 +40,11 @@ Common issues and troubleshooting steps.
 
 **Overview of the iPhone 12 model:**
 
-The iPhone 12, released in 2020, presents a stylish design featuring a ceramic shield front, aerospace-grade aluminum edges, and a glass back. Its Super Retina XDR display delivers vivid colors and high resolution, creating a captivating viewing experience. Powered by the A14 Bionic chip, the iPhone 12 offers fast and efficient performance across various tasks. It brings 5G capability for faster internet speeds and better connectivity. With various storage capacities and colors, the iPhone 12 provides a range of options to match individual preferences.
+- The iPhone 12, released in 2020, presents a stylish design featuring a ceramic shield front, aerospace-grade aluminum edges, and a glass back. 
+- Its Super Retina XDR display delivers vivid colors and high resolution, creating a captivating viewing experience.
+- Powered by the A14 Bionic chip, the iPhone 12 offers fast and efficient performance across various tasks.
+- It brings 5G capability for faster internet speeds and better connectivity. With various storage capacities and colors, the iPhone 12 provides a range of options 
+  to match individual preferences.
 
 **Unboxing iPhone 12 and Included Items:**
 

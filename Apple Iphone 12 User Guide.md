@@ -1,10 +1,10 @@
 <h1 align="center">IPHONE 12 USER GUIDE</h1>
 
-# 1. Introduction
+## 1. Introduction
 Overview of the iPhone 12 model.  
 Unboxing instructions and what is included.
 
-# 2. Getting Started
+## 2. Getting Started
 Turning the device on and off.  
 Initial setup process: language, Wi-Fi, and Apple ID.
 
@@ -133,9 +133,9 @@ Face ID provides secure and convenient access to your device by scanning your un
 
    ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_setup_faceid_facemask.png)
 
-## 4. Phone and Messaging
+### 4. Phone and Messaging
 
-### Making Calls, Managing Contacts, and Voicemail
+## Making Calls, Managing Contacts, and Voicemail
 
 1. **Making a Call:**
     - To make a call, tap the **Phone** app, enter the number, and tap the green call icon.

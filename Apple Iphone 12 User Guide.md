@@ -161,6 +161,22 @@ iMessage offers a more versatile and feature-rich messaging experience within th
      If Wi-Fi is not available, iMessage will be sent using mobile data. Standard data rates may apply.
      
      ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/imessage_vs_sms.png).
+
+ ### 5.Camera and Photos:
+ 
+- **Using the Camera App**: Open the Camera app to take photos or record videos. Tap the shutter button to capture photos and the video record button to start 
+  recording videos. Swipe left or right to switch between photo and video modes. Access additional settings by tapping the arrow or gear icon.
+
+- **Taking Photos and Recording Videos**: Capture photos by tapping the shutter button and record videos by pressing the video record button. Explore different 
+  camera modes like Portrait, Night, or Panorama by swiping across the camera screen. To take a selfie, tap the front-facing camera button, find your angle, and 
+  then tap the shutter button.
+  
+- **Editing Photos and Organizing Albums**: Edit photos in the Photos app by tapping on a photo and selecting "Edit." Use tools to crop, adjust brightness, apply 
+  filters, and more. Create albums by tapping "Albums" and the "+" icon, then organize photos by dragging them into the created albums.
+
+- **Sharing Media** : Share photos or videos by opening them in the Photos app and tapping the share icon (a box with an arrow). Choose the sharing method 
+  (Message,Mail, AirDrop, etc). To share multiple items, select them and tap the share icon. You can also share directly from the Camera or Messages apps.
+
      
 
 

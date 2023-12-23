@@ -59,10 +59,13 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
 
 ### 2. Getting Started:
 
-- **Turning the device ON and OFF**
-  - To power off your device, press and hold the volume button and the side button until the power-off slider appears.
+### 2. Getting Started:
 
-2. Drag the slider, and wait for 30 seconds for your iPhone 12 to turn off. If your
+**Turning the device ON and OFF**
+   
+1. ** To power off your device, press and hold the volume button and the side button until the power-off slider appears.
+
+2. ** Drag the slider, and wait for 30 seconds for your iPhone 12 to turn off. If your
 phone is frozen or unresponsive, force-restart it.
 
 4. To turn your phone back on, press and hold the side button (located on the right- hand

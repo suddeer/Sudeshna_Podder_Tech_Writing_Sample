@@ -34,5 +34,6 @@
 
 # 9. Troubleshooting and Support
 - Common issues and troubleshooting steps.
+  
 ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)
 

@@ -5,15 +5,15 @@ Overview of the iPhone 12 model.
 Unboxing instructions and what is included.
 
 # 2. Getting Started
-Turning the device on and off.
+Turning the device on and off.  
 Initial setup process: language, Wi-Fi, and Apple ID.
 
 # 3. Interface and Navigation
-Understanding the home screen, gestures, and Control Center.
+Understanding the home screen, gestures, and Control Center.  
 Using Face ID for authentication.
 
 # 4. Phone and Messaging
-Making calls, managing contacts, and voicemail.
+Making calls, managing contacts, and voicemail.  
 Sending and receiving messages, using iMessage.
 
 # 5. Camera and Photos

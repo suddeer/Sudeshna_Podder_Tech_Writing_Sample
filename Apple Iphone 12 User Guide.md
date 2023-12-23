@@ -70,5 +70,14 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
 
 - You can either use Quick Start with another device to automatically set up your new device or tap "Set Up Without Another Device" if you don't have one available.
 
+- The setup wizard will then guide you on how to connect to a Wi-Fi network. Select the appropriate Wi-Fi network and enter the password (if required). Once 
+  connected, tap "Next" or a similar option to proceed.
+  
+- The setup process will then prompt you to sign in with your Apple ID or create a new Apple ID if you do not have one. Apple ID is essential for accessing Apple 
+  services like the App Store, iCloud, and more. Enter your Apple ID credentials or create a new account if needed. Initial setup process of language, Wi-Fi, and 
+  Apple ID is done now.
+  
+- Select how you would like to restore or transfer your data from your old device to the new one. You can use an iCloud backup, a computer backup, or move data
+  from an Android device. If you do not have a backup or another device, choose "Don't Transfer Apps & Data".
 
 

@@ -8,31 +8,31 @@ Unboxing instructions and what is included.
 Turning the device on and off.  
 Initial setup process: language, Wi-Fi, and Apple ID.
 
-# 3. Interface and Navigation
+## 3. Interface and Navigation
 Understanding the home screen, gestures, and Control Center.  
 Using Face ID for authentication.
 
-# 4. Phone and Messaging
+## 4. Phone and Messaging
 Making calls, managing contacts, and voicemail.  
 Sending and receiving messages, using iMessage.
 
-# 5. Camera and Photos
+## 5. Camera and Photos
 Using the camera app, taking photos, and recording videos.  
 Editing photos, organizing albums, and sharing media.
 
-# 6. Apps and Features
+## 6. Apps and Features
 Overview of pre-installed apps (Safari, Mail, Maps, etc.).  
 Explaining features like Siri, Apple Pay, and Health.
 
-# 7. Settings and Customization
+## 7. Settings and Customization
 Configuring settings for Wi-Fi, Bluetooth, display, and sounds.  
 Customizing wallpapers, notifications, and accessibility options.
 
-# 8. Security and Privacy
+## 8. Security and Privacy
 Setting up security measures such as passcodes and Face ID.  
 Managing privacy settings for apps and data.
 
-# 9. Troubleshooting and Support
+## 9. Troubleshooting and Support
 Common issues and troubleshooting steps.
 
 
@@ -135,7 +135,7 @@ Face ID provides secure and convenient access to your device by scanning your un
 
 ### 4. Phone and Messaging
 
-## Making Calls, Managing Contacts, and Voicemail
+#### Making Calls, Managing Contacts, and Voicemail
 
 1. **Making a Call:**
     - To make a call, tap the **Phone** app, enter the number, and tap the green call icon.

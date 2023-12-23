@@ -1,5 +1,7 @@
 <center>
-#IPHONE 12 USER GUIDE
+
+# IPHONE 12 USER GUIDE
+
 </center>
 
 ## 1. Introduction

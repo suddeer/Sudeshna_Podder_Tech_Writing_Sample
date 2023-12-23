@@ -1,4 +1,6 @@
-## IPHONE 12 USER GUIDE
+<center>
+#IPHONE 12 USER GUIDE
+</center>
 
 ## 1. Introduction
 Overview of the iPhone 12 model.

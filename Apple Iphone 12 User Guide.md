@@ -53,6 +53,8 @@ Upon unboxing the iPhone 12, you will find the handset along with essential acce
 - One USB-C to Lightning cable utilized for charging and data transfer purposes
 - Accompanying documentation such as user guides and warranty information
 
-As part of our environmental efforts, the iPhone 12 packaging does not include a power adapter or EarPods. Instead, you'll find a USB‑C to Lightning cable for fast charging, compatible with USB‑C power adapters, and computer ports. You can use your existing USB‑A to Lightning cables, power adapters, and headphones with this iPhone 12. Apple power adapters or headphones are available for purchase separately if you want it.
+As part of our environmental efforts, the iPhone 12 packaging does not include a power adapter or EarPods. Instead, you'll find a USB‑C to Lightning cable for fast charging, compatible with USB‑C power adapters, and computer ports. 
+
+You can use your existing USB‑A to Lightning cables, power adapters, and headphones with this iPhone 12. Apple power adapters or headphones are available for purchase separately if you want it.
 
 

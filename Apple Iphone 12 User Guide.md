@@ -114,6 +114,12 @@ Face ID provides secure and convenient access to your device by scanning your un
 
 ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/Steps_to_setup_faceId.png)
 
+- **Using Face ID:**
+  
+1. To unlock the iPhone with Face ID, simply raise the device towards your face.
+2. Alternatively, tap the screen or swipe up from the bottom.
+3. Face ID will authenticate your face to unlock the device or authorize various actions such as app purchases, password autofill, and many more.
+
 
 
 

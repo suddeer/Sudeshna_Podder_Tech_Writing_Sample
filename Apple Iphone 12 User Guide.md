@@ -149,6 +149,21 @@ Face ID provides secure and convenient access to your device by scanning your un
 
 ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/making_calls_managing_contacts.png)
 
+- **Sending and Receiving Messages with iMessage** 
+
+iMessage offers a more versatile and feature-rich messaging experience within the Apple ecosystem. Using iMessage on the iPhone 12, you can exchange text, photos, videos, and more with other Apple users. It provides various features like emojis, stickers, reactions, location sharing, and in-chat gaming for lively and interactive conversations. SMS, on the other hand, is the standard text messaging service that works across different platforms and devices but with fewer features compared to iMessage.
+
+1. - To send or receive text messages, open **Messages**.
+2. - To compose a new message, tap the pen icon, enter the recipient's name or contact number, type your message, and tap send.
+3. - Access the camera or attachments through the respective icons within the message screen.
+4. - Blue bubbles indicate messages sent using iMessage, while green indicates SMS.
+     
+     If Wi-Fi is not available, iMessage will be sent using mobile data. Standard data rates may apply.
+     
+![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/imessage_vs_sms.png).
+     
+
+
 
 
 

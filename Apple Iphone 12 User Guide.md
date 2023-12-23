@@ -80,4 +80,20 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
 - Select how you would like to restore or transfer your data from your old device to the new one. You can use an iCloud backup, a computer backup, or move data
   from an Android device. If you do not have a backup or another device, choose "Don't Transfer Apps & Data".
 
+### 3. Interface and Navigation:
+
+- Home Screen and Gestures:
+  
+The iPhone's home screen displays apps and allows you to access various functionalities. Swipe left or right to navigate through different app pages. Tapping an
+app opens it, while holding down on an app icon triggers a menu for actions like moving, sharing, or deleting apps.
+
+- Control Center:
+  
+Control Centre provides instant access to functions you like the most. It allows quick actions such as capturing photos, enabling/disabling Wi-Fi, managing Bluetooth, Apple TV, and more. Additionally, it offers immediate access to essential controls and apps like airplane mode, Timers, Do Not Disturb, flashlight, calculator, volume, and screen brightness.
+
+- How to Open and Close Control Center
+  
+On the iPhone 12, swipe down from the top right-hand corner of the screen to open the Control Center. To close it, swipe up from the bottom or tap the screen. Be
+cautious, as swiping too close to the center at the top might accidentally open Notification Centre instead of Control Centre. Adjust settings by tapping or pressing these controls.
+
 

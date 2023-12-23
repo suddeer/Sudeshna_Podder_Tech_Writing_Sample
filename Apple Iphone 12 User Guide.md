@@ -112,7 +112,7 @@ Face ID provides secure and convenient access to your device by scanning your un
 7. Gently move your head to complete the circle for a second time.
 8. Finally, tap Done. Your Face ID setup is complete.
 
-https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/Steps_to_setup_faceId.png
+<"![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/Steps_to_setup_faceId.png>
 
 
 

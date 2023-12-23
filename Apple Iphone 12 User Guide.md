@@ -133,6 +133,21 @@ Face ID provides secure and convenient access to your device by scanning your un
 
    ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_setup_faceid_facemask.png)
 
+### 4. Phone and Messaging
+
+## Making Calls, Managing Contacts, and Voicemail
+
+1. **Making a Call:**
+    - To make a call, tap the **Phone** app, enter the number, and tap the green call icon.
+    - Alternatively, access contacts by tapping the **Contacts** app, search for a contact, and tap their name to call.
+
+2. **Adding a New Contact:**
+    - To add a new contact, go to **Contacts**, tap the "+" icon, fill in the details, and tap Done.
+
+3. **Setting Up Voicemail:**
+    - To set up Voicemail, open the **Phone** app and tap the voicemail tab. Follow prompts for setup and record a personalized voicemail greeting.
+
+
 
 
 

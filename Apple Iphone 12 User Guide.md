@@ -25,18 +25,15 @@ Overview of pre-installed apps (Safari, Mail, Maps, etc.).
 Explaining features like Siri, Apple Pay, and Health.
 
 # 7. Settings and Customization
-Configuring settings for Wi-Fi, Bluetooth, display, and sounds.
+Configuring settings for Wi-Fi, Bluetooth, display, and sounds.  
 Customizing wallpapers, notifications, and accessibility options.
 
 # 8. Security and Privacy
-Setting up security measures such as passcodes and Face ID.
+Setting up security measures such as passcodes and Face ID.  
 Managing privacy settings for apps and data.
 
 # 9. Troubleshooting and Support
 Common issues and troubleshooting steps.
-
-
-
   
 ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red.png)
 

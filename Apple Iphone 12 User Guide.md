@@ -147,7 +147,7 @@ Face ID provides secure and convenient access to your device by scanning your un
 3. **Setting Up Voicemail:**
     - To set up Voicemail, open the **Phone** app and tap the voicemail tab. Follow prompts for setup and record a personalized voicemail greeting.
 
-
+![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/making_calls_managing_contacts.png)
 
 
 

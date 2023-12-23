@@ -179,6 +179,70 @@ iMessage offers a more versatile and feature-rich messaging experience within th
 
   ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/setting_iphone12_camera_and_photos.png)
 
+ ### 6. Apps and Features:
+
+**Overview of pre-installed apps (Safari, Mail, Maps, etc.)**
+
+- **Overview of Pre-installed Apps**: The iPhone 12 comes with essential pre-installed apps like Safari for browsing the web, Mail for managing emails, Maps for 
+    navigation, and more.
+
+- **Free Apps from Apple**: Pages, Numbers, Keynote, iMovie, GarageBand, Clips, Apple Store app, Trailers, iTunes, Remote, Clips, Support are preinstalled.
+
+- **Explore these apps** to discover their functionalities and how they can assist you.
+  
+**Features Explanation - Siri, Apple Pay, and Health:**
+
+- **Siri serves as your virtual assistant:**
+Siri acts as your virtual assistant, responding to "Hey Siri" or a button press. It sends messages, schedules meetings, and handles various tasks without needing your hands. From checking the weather to playing your favorite song, Siri can help. Control apps and perform complex tasks by speaking. Siri is your digital helper, making tasks easier and your digital life smoother.
+
+- **Apple Pay:**
+ Apple Pay facilitates secure and easy payments through your device. Set up payment methods and conduct secure transactions. Use Face ID to make payments in stores, apps, and online with your iPhone. Send or receive money through Messages using Apple Cash. Complete your purchases made with Apple Pay.
+
+- **Health**:
+ Health monitors and tracks your physical activity, enables goal setting for fitness, and provides insights into various health metrics.
+
+Explore these features within their respective apps to maximize their benefits.
+
+### 7. Settings and Customization:
+
+#### Configuring Device Settings:
+
+- Adjust settings for Wi-Fi, Bluetooth, display brightness, and sound preferences to personalize your iPhone 12 experience.
+- Access the settings menu to connect to Wi-Fi networks, pair Bluetooth devices, adjust display settings for brightness and other display features, and manage
+sound preferences like ringtones and volume levels. Access handy tools like the flashlight, timer, or calculator instantly in Control Center.
+- On Face ID iPhones, swipe down from the top-right corner; for Home button iPhones, swipe up from the screen's bottom.
+- Customize Control Center with extra tools like the alarm or magnifier in Settings > Control Center.
+- You can showcase a favorite photo, add filters, and widgets, and even change the font of the date and time.
+- To personalize your iPhone 12 lock screen, press and hold the Lock Screen, then tap Browse through options and select one to customize its appearance. Once
+you have created a lock screen you like, tap Add, then Set as Wallpaper Pair.
+
+#### Customizing Device Appearance:
+- Personalize your iPhone 12 by customizing **wallpapers**. You can select wallpapers that reflect your style, configure notification preferences for different 
+  apps.
+- Customize your device by choosing different **notification settings.**
+- Explore **accessibility settings** to enhance the iPhone 12 usability based on your preferences.
+- Personalize your iPhone 12 by adding **Widgets**. Widgets allow you to effortlessly view crucial information, such as the current weather and your upcoming
+  calendar events. You can also perform tasks like checking off items in your Reminders to-do list or playing a song in Music. To add a widget, simply touch and
+  hold the background on any Home Screen page until the apps start moving, then tap the Add Widget button.
+- **Personalize your phone calls by creating a unique call poster**. Pick a favorite photo or emoji, select your preferred font, and add colors to make it stand 
+  out.
+  Your customized call poster will appear on the screen of the person you are calling. To begin, open the Contacts app, tap your name, and then select Contact
+  Photo & Poster.
+The iPhone 12 can make various sounds and vibrations for phone calls, text
+messages, calendar alerts, and other notifications. To adjust these settings, follow
+these steps. Open Settings, Tap on Sounds & Haptics. You can also personalize the
+sounds for specific contacts by going to the Contacts app, selecting a person's
+name, tapping Edit, and then choosing Ringtone or Text Tone.
+Your iPhone 12 offers lots of features to help with vision, physical abilities,
+hearing, and learning. You can change text size, make the touchscreen easier to
+use, control your iPhone using only your voice, and more. To personalize these
+settings, open Settings > Accessibility.
+Your iPhone 12 is built to keep your privacy and information safety. You control
+which apps can track your activity across other apps and sites. Safety check lets
+you review and update who can access your info. Just open Settings > Privacy &
+Security, then tap Tracking or Safety Check.
+
+
      
 
 

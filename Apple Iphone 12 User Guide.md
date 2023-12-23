@@ -1,4 +1,4 @@
-                                # <div style="text-align:center">iPhone 12 User Guide</div>
+                                # User Guide for iPhone 12
 
 ## 1. Introduction
 Overview of the iPhone 12 model.

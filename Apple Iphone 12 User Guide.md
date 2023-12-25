@@ -9,10 +9,9 @@ Overview of the iPhone 12 model.
 Unboxing instructions and what is included.                       
 
 ## 2. Getting Started
-Turning the device on and off.                              ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_small.png)
+Turning the device on and off.                     ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_small.png)
 Initial setup process: language, Wi-Fi, and Apple ID.   
 
- 
 ## 3. Interface and Navigation
 Understanding the home screen, gestures, and Control Center.  
 Using Face ID for authentication.

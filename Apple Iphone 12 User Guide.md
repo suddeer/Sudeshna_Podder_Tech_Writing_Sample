@@ -40,7 +40,10 @@ Managing privacy settings for apps and data.
 Common issues and troubleshooting steps.
 
 
+
 ### 1. Introduction
+
+<img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_vibrant_different_Colors.png" align="right" height="190" width="150">
 
 **Overview of the iPhone 12 model:**
 

@@ -81,6 +81,7 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
 
 **Initial Setup process: Language, QuickStart, Wi-Fi, and Apple ID:**
 - When **you turn on the iPhone for the first time**, you will see "Hello" in many languages. <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/Iphone_hello.png" align="right" height="250" width="180">
+<p align="right">IPHONE POWER UP FOR THE FIRST TIME</p>
 
   You will be prompted to select your preferred language. Tap the screen to choose the desired language from the displayed list. Follow the onscreen instructions to get started.
 

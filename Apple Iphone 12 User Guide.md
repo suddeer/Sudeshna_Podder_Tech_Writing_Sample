@@ -69,8 +69,13 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
 **Turning the device ON and OFF**
    
 1. To power off your device, press and hold the volume button and the side button until the power-off slider appears.
-2. Drag the slider, and wait for 30 seconds for your iPhone 12 to turn off. If your phone is frozen or unresponsive, force-restart it.
-3. To turn your phone back on, press and hold the side button (located on the right-hand side of your iPhone) until you see the Apple logo.
+<p align="center">
+  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_press_button_restart.png" alt="iPhone Image">
+</p>
+
+   
+3. Drag the slider, and wait for 30 seconds for your iPhone 12 to turn off. If your phone is frozen or unresponsive, force-restart it.
+4. To turn your phone back on, press and hold the side button (located on the right-hand side of your iPhone) until you see the Apple logo.
 
 **Initial Setup process: Language, QuickStart, Wi-Fi, and Apple ID:**
 - When **you turn on the iPhone for the first time**, you will see "Hello" in many languages. You will be prompted to select your preferred language. Tap the screen to choose the desired language from the displayed list. Follow the onscreen instructions to get started.

@@ -4,39 +4,39 @@
   <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/first_image_5iphones.jpg" alt="iPhone Image">
 </div>
 
-## 1. Introduction
+### 1. Introduction
 Overview of the iPhone 12 model.  
 Unboxing instructions and what is included.                       
 
-## 2. Getting Started
+### 2. Getting Started
 Turning the device on and off.            <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_blue_title.png" align="right" height="190" width="150">
 Initial setup process: language, Wi-Fi, and Apple ID. 
 
-## 3. Interface and Navigation
+### 3. Interface and Navigation
 Understanding the home screen, gestures, and Control Center.  
 Using Face ID for authentication.
 
-## 4. Phone and Messaging
+### 4. Phone and Messaging
 Making calls, managing contacts, and voicemail.  
 Sending and receiving messages, using iMessage.
 
-## 5. Camera and Photos
+### 5. Camera and Photos
 Using the camera app, taking photos, and recording videos.  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_title.png" align="right" height="190" width="150">
 Editing photos, organizing albums, and sharing media.
 
-## 6. Apps and Features
+### 6. Apps and Features
 Overview of pre-installed apps (Safari, Mail, Maps, etc.).  
 Explaining features like Siri, Apple Pay, and Health.
 
-## 7. Settings and Customization
+### 7. Settings and Customization
 Configuring settings for Wi-Fi, Bluetooth, display, and sounds.  
 Customizing wallpapers, notifications, and accessibility options.
 
-## 8. Security and Privacy
+### 8. Security and Privacy
 Setting up security measures such as passcodes and Face ID.  
 Managing privacy settings for apps and data.
 
-## 9. Troubleshooting and Support
+### 9. Troubleshooting and Support
 Common issues and troubleshooting steps.
 
 

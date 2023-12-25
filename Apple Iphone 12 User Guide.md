@@ -44,7 +44,6 @@ Common issues and troubleshooting steps.
 ### 1. Introduction
 
 **Overview of the iPhone 12 model:**
-
 <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_vibrant_different_Colors.png" align="right" height="220" width="240">
 
 - The iPhone 12, released in 2020, presents a stylish design featuring a ceramic shield front, aerospace-grade aluminum edges, and a glass back. 

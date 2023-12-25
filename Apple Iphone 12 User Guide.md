@@ -1,8 +1,6 @@
 <h1 align="center">IPHONE 12 USER GUIDE</h1>
 
-<div style="text-align:center">
-![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/first_image_5iphones.jpg)
-</div>
+<h1 align="center">![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/first_image_5iphones.jpg)</h1>
 
 ## 1. Introduction
 Overview of the iPhone 12 model.  

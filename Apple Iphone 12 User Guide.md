@@ -81,11 +81,11 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
 
 **Initial Setup process: Language, QuickStart, Wi-Fi, and Apple ID:**
 - When **you turn on the iPhone for the first time**, you will see "Hello" in many languages. <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/Iphone_hello.png" align="right" height="250" width="180">
-<p align="right">IPHONE POWER UP FOR THE FIRST TIME</p>
 
-  You will be prompted to select your preferred language. Tap the screen to choose the desired language from the displayed list. Follow the onscreen instructions to get started.
+You will be prompted to select your preferred language. Tap the screen to choose the desired language from the displayed list. Follow the onscreen instructions to get started.
 
-- You can either use Quick Start with another device to automatically set up your new device or tap "Set Up Without Another Device" if you don't have one available.
+- You can either use Quick Start with another device to automatically set up your new device or tap "Set Up Without Another Device" if you don't have one 
+  available.
 
 - The setup wizard will then guide you on how to connect to a Wi-Fi network. Select the appropriate Wi-Fi network and enter the password (if required). Once 
   connected, tap "Next" or a similar option to proceed.
@@ -93,6 +93,8 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
 - The setup process will then prompt you to sign in with your Apple ID or create a new Apple ID if you do not have one. Apple ID is essential for accessing Apple 
   services like the App Store, iCloud, and more. Enter your Apple ID credentials or create a new account if needed. Initial setup process of language, Wi-Fi, and 
   Apple ID is done now.
+
+  <p align="right">IPHONE POWER UP FOR THE FIRST TIME</p>
   
 - Select how you would like to restore or transfer your data from your old device to the new one. You can use an iCloud backup, a computer backup, or move data
   from an Android device. If you do not have a backup or another device, choose "Don't Transfer Apps & Data".

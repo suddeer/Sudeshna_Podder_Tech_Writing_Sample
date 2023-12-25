@@ -91,11 +91,9 @@ You will be prompted to select your preferred language. Tap the screen to choose
   connected, tap "Next" or a similar option to proceed.
   
 - The setup process will then prompt you to sign in with your Apple ID or create a new Apple ID if you do not have one. Apple ID is essential for accessing Apple 
-  services like the App Store, iCloud, and more. Enter your Apple ID credentials or create a new account if needed. Initial setup process of language, Wi-Fi, and 
-  Apple ID is done now.
-
-  <p align="right">IPHONE POWER UP FOR THE FIRST TIME</p>
-  
+  services like the App Store, iCloud, and more. <p align="right">IPHONE POWER UP FOR THE FIRST TIME</p>. Enter your Apple ID credentials or create a new account 
+  if needed. Initial setup process of language, Wi-Fi, and Apple ID is done now.
+ 
 - Select how you would like to restore or transfer your data from your old device to the new one. You can use an iCloud backup, a computer backup, or move data
   from an Android device. If you do not have a backup or another device, choose "Don't Transfer Apps & Data".
 

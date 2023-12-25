@@ -45,9 +45,7 @@ Common issues and troubleshooting steps.
 
 <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_vibrant_different_Colors.png" align="right" height="200" width="200">
 
-
-
-
+[Five empty lines]
 
 **Overview of the iPhone 12 model:**
 

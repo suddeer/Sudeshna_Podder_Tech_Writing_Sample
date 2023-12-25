@@ -43,8 +43,8 @@ Common issues and troubleshooting steps.
 - The iPhone 12, released in 2020, presents a stylish design featuring a ceramic shield front, aerospace-grade aluminum edges, and a glass back. 
 - Its Super Retina XDR display delivers vivid colors and high resolution, creating a captivating viewing experience.
 - Powered by the A14 Bionic chip, the iPhone 12 offers fast and efficient performance across various tasks.
-- It brings 5G capability for faster internet speeds and better connectivity. With various storage capacities and colors, the iPhone 12 provides a range of options 
-  to match individual preferences.
+- It brings 5G capability for faster internet speeds and better connectivity. With various storage capacities and colors, the iPhone 12 provides a range of 
+  options to match individual preferences.
 
 **Unboxing iPhone 12 and Included Items:**
 
@@ -131,7 +131,7 @@ Face ID provides secure and convenient access to your device by scanning your un
 
    Note that Face ID isn't functional in landscape mode when a mask is worn.
 
-       ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_setup_faceid_facemask_SMALL.png)
+  ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_setup_faceid_facemask_SMALL.png)
 
 ### 4. Phone and Messaging
 

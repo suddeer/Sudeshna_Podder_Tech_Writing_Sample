@@ -53,8 +53,6 @@ Common issues and troubleshooting steps.
 - It brings 5G capability for faster internet speeds and better connectivity. With various storage capacities and colors, the iPhone 12 provides a range of 
   options to match individual preferences.
 
-  <p align="right">IPHONE 12 IN VARIOUS VIBRANT COLORS</p>
-
 **Unboxing iPhone 12 and Included Items:**
 
 Upon unboxing the iPhone 12, you will find the handset along with essential accessories. The box typically includes:

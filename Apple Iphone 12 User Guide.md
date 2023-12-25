@@ -9,7 +9,7 @@ Overview of the iPhone 12 model.
 Unboxing instructions and what is included.                       
 
 ## 2. Getting Started
-Turning the device on and off.            <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_blue_title.png" align="right" height="180" width="150">
+Turning the device on and off.            <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_blue_title.png" align="right" height="190" width="150">
 Initial setup process: language, Wi-Fi, and Apple ID. 
 
 ## 3. Interface and Navigation
@@ -21,7 +21,7 @@ Making calls, managing contacts, and voicemail.
 Sending and receiving messages, using iMessage.
 
 ## 5. Camera and Photos
-Using the camera app, taking photos, and recording videos.  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_title.png" align="right" height="180" width="150">
+Using the camera app, taking photos, and recording videos.  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_title.png" align="right" height="190" width="150">
 Editing photos, organizing albums, and sharing media.
 
 ## 6. Apps and Features

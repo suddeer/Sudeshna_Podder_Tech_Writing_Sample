@@ -45,14 +45,15 @@ Common issues and troubleshooting steps.
 
 **Overview of the iPhone 12 model:**
 
-<img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_vibrant_different_Colors.png" align="right" height="200" width="250">
-<p align="right">IPHONE 12 IN VARIOUS VIBRANT COLORS</p>
+<img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_vibrant_different_Colors.png" align="right" height="220" width="250">
 
 - The iPhone 12, released in 2020, presents a stylish design featuring a ceramic shield front, aerospace-grade aluminum edges, and a glass back. 
 - Its Super Retina XDR display delivers vivid colors and high resolution, creating a captivating viewing experience.
 - Powered by the A14 Bionic chip, the iPhone 12 offers fast and efficient performance across various tasks.
 - It brings 5G capability for faster internet speeds and better connectivity. With various storage capacities and colors, the iPhone 12 provides a range of 
   options to match individual preferences.
+
+  <p align="right">IPHONE 12 IN VARIOUS VIBRANT COLORS</p>
 
 **Unboxing iPhone 12 and Included Items:**
 

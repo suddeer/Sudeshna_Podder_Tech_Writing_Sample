@@ -72,6 +72,10 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
 <p align="center">
   <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_press_button_restart.png" alt="iPhone Image" height="200" width="250">
 </p>
+
+
+
+
 <h1 align="center">ARROW INDICATES VOLUME BUTTON AND SIDE BUTTON OF YOUR IPHONE</h1>
    
 2. Drag the slider, and wait for 30 seconds for your iPhone 12 to turn off. If your phone is frozen or unresponsive, force-restart it.

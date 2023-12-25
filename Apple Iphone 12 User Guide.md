@@ -209,12 +209,12 @@ Explore these features within their respective apps to maximize their benefits.
 
 - Adjust settings for Wi-Fi, Bluetooth, display brightness, and sound preferences to personalize your iPhone 12 experience.
 - Access the settings menu to connect to Wi-Fi networks, pair Bluetooth devices, adjust display settings for brightness and other display features, and manage
-sound preferences like ringtones and volume levels. Access handy tools like the flashlight, timer, or calculator instantly in Control Center.
+  sound preferences like ringtones and volume levels. Access handy tools like the flashlight, timer, or calculator instantly in Control Center.
 - On Face ID iPhones, swipe down from the top-right corner; for Home button iPhones, swipe up from the screen's bottom.
 - Customize Control Center with extra tools like the alarm or magnifier in Settings > Control Center.
 - You can showcase a favorite photo, add filters, and widgets, and even change the font of the date and time.
 - To personalize your iPhone 12 lock screen, press and hold the Lock Screen, then tap Browse through options and select one to customize its appearance. Once
-you have created a lock screen you like, tap Add, then Set as Wallpaper Pair.
+  you have created a lock screen you like, tap Add, then Set as Wallpaper Pair.
 
 #### Customizing Device Appearance:
 - Personalize your iPhone 12 by customizing **wallpapers**. You can select wallpapers that reflect your style, configure notification preferences for different 
@@ -225,22 +225,18 @@ you have created a lock screen you like, tap Add, then Set as Wallpaper Pair.
   calendar events. You can also perform tasks like checking off items in your Reminders to-do list or playing a song in Music. To add a widget, simply touch and
   hold the background on any Home Screen page until the apps start moving, then tap the Add Widget button.
 - **Personalize your phone calls by creating a unique call poster**. Pick a favorite photo or emoji, select your preferred font, and add colors to make it stand 
-  out.
-  Your customized call poster will appear on the screen of the person you are calling. To begin, open the Contacts app, tap your name, and then select Contact
+  out. Your customized call poster will appear on the screen of the person you are calling. To begin, open the Contacts app, tap your name, and then select Contact
   Photo & Poster.
-The iPhone 12 can make various sounds and vibrations for phone calls, text
-messages, calendar alerts, and other notifications. To adjust these settings, follow
-these steps. Open Settings, Tap on Sounds & Haptics. You can also personalize the
-sounds for specific contacts by going to the Contacts app, selecting a person's
-name, tapping Edit, and then choosing Ringtone or Text Tone.
-Your iPhone 12 offers lots of features to help with vision, physical abilities,
-hearing, and learning. You can change text size, make the touchscreen easier to
-use, control your iPhone using only your voice, and more. To personalize these
-settings, open Settings > Accessibility.
-Your iPhone 12 is built to keep your privacy and information safety. You control
-which apps can track your activity across other apps and sites. Safety check lets
-you review and update who can access your info. Just open Settings > Privacy &
-Security, then tap Tracking or Safety Check.
+- **The iPhone 12 can make various sounds and vibrations** for phone calls, text messages, calendar alerts, and other notifications. To adjust these settings, 
+  follow these steps. Open Settings, Tap on Sounds & Haptics. You can also personalize the sounds for specific contacts by going to the Contacts app, selecting a 
+  person's name, tapping Edit, and then choosing Ringtone or Text Tone.
+- Your iPhone 12 offers lots of features to help with vision, physical abilities, hearing, and learning. You can change text size, make the touchscreen easier to 
+  use, control your iPhone using only your voice, and more. To personalize these
+  settings, open Settings > Accessibility.
+- Your iPhone 12 is built to keep your privacy and information safety. You control which apps can track your activity across other apps and sites. Safety check   
+  you review and update who can access your info. Just open Settings > Privacy & Security, then tap Tracking or Safety Check.
+
+  ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/customising_iphone12.png)
 
 
      

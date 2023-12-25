@@ -45,7 +45,7 @@ Common issues and troubleshooting steps.
 
 **Overview of the iPhone 12 model:**
 
-<img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_vibrant_different_Colors.png" align="right" height="220" width="220">
+<img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_vibrant_different_Colors.png" align="right" height="220" width="250">
 
 - The iPhone 12, released in 2020, presents a stylish design featuring a ceramic shield front, aerospace-grade aluminum edges, and a glass back. 
 - Its Super Retina XDR display delivers vivid colors and high resolution, creating a captivating viewing experience.
@@ -70,9 +70,8 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
    
 1. To power off your device, press and hold the volume button and the side button until the power-off slider appears.
 <p align="center">
-  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_press_button_restart.png" alt="iPhone Image">
+  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_press_button_restart.png" alt="iPhone Image" height="200" width="250">
 </p>
-
    
 3. Drag the slider, and wait for 30 seconds for your iPhone 12 to turn off. If your phone is frozen or unresponsive, force-restart it.
 4. To turn your phone back on, press and hold the side button (located on the right-hand side of your iPhone) until you see the Apple logo.

@@ -85,8 +85,8 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
   to get started.
 
 - You can either use Quick Start with another device to automatically set up your new device or tap "Set Up Without Another Device" if you don't have one 
-  available.
-
+  available. <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/Iphone12_Quickstart.png" align="right" height="250" width="250">
+  
 - The setup wizard will then guide you on how to connect to a Wi-Fi network. Select the appropriate Wi-Fi network and enter the password (if required). Once 
   connected, tap "Next" or a similar option to proceed.
   

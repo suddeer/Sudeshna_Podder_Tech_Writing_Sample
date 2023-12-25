@@ -12,7 +12,7 @@ Unboxing instructions and what is included.
 Turning the device on and off.                     
 Initial setup process: language, Wi-Fi, and Apple ID. 
 
-<img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_small.png" alt="iPhone Image" align="right" width="200">
+<img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_small.png" alt="iPhone Image" align="right" height="150">
 
 ## 3. Interface and Navigation
 Understanding the home screen, gestures, and Control Center.  

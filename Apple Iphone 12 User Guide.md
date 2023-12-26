@@ -94,7 +94,7 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
   Apple services like the App Store, iCloud, and more. <p align="right">IPHONE POWER UP FOR THE FIRST TIME</p>. Enter your Apple ID credentials or create a new 
   account if needed. Initial setup process of language, Wi-Fi, and Apple ID is done now.
  
-- Select how you would like to restore or transfer your data from your old device to the new one. You can use an iCloud backup, a computer backup, or move data
+- Select how you would like to **restore or transfer your data** from your old device to the new one. You can use an iCloud backup, a computer backup, or move data
   from an Android device. If you do not have a backup or another device, choose "Don't Transfer Apps & Data".
 
 <p align="center">

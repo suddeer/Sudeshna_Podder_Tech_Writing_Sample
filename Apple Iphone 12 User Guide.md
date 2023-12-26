@@ -307,13 +307,11 @@ Explore these features within their respective apps to maximize their benefits.
 
 #### Resolving Common Issues
 
-- **Solve Everyday Issues:**
-  - Use personalized troubleshooting steps to fix various problems while using the iPhone 12. These steps provide effective solutions for different potential problems.
+Solve everyday issues with personalized troubleshooting steps to help you fix different problems while using the iPhone 12. These steps provide effective solutions for different potential problems.
 
 #### Getting Additional Support
 
-- **Access Extra Help:**
-  - Get additional help and resources through Apple's official support channels like Apple Support, user forums, and online resources.
+ Access extra help and resources through Apple's official support channels like Apple Support, user forums, and online resources.
 
 
 

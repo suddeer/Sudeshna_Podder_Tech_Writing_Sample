@@ -10,6 +10,7 @@ Unboxing instructions and what is included.
 
 ### 2. Getting Started
 Turning the device on and off.            <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_blue_title.png" align="right" height="190" width="150">
+
 Initial setup process: language, Wi-Fi, and Apple ID. 
 
 ### 3. Interface and Navigation

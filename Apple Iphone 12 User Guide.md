@@ -165,32 +165,29 @@ Face ID provides secure and convenient access to your device by scanning your un
 
 ### 4. Phone and Messaging
 
-#### Making Calls, Managing Contacts, and Voicemail
+- **Making Calls, Managing Contacts, and Voicemail:**
 
-1. **Making a Call:**
-    - To make a call, tap the **Phone** app, enter the number, and tap the green call icon.
-    - Alternatively, access contacts by tapping the **Contacts** app, search for a contact, and tap their name to call.
-
-2. **Adding a New Contact:**
-    - To add a new contact, go to **Contacts**, tap the "+" icon, fill in the details, and tap Done.
-
-3. **Setting Up Voicemail:**
-    - To set up Voicemail, open the **Phone** app and tap the voicemail tab. Follow prompts for setup and record a personalized voicemail greeting.
+1. To make a call, tap the **Phone** app, enter the number, and tap the green call icon.
+2. Alternatively, access contacts by tapping the **Contacts** app, search for a contact, and tap their name to call.
+3. To add a new contact, go to **Contacts**, tap the "+" icon, fill in the details, and tap Done.
+4. To set up Voicemail, open **Phone** app and, tap the voicemail tab. Follow prompts for setup and record a personalized voicemail greeting.
 
 ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/making_calls_managing_contacts.png)
 
-- **Sending and Receiving Messages with iMessage** 
+- **Sending and Receiving Messages with iMessage:** 
 
 iMessage offers a more versatile and feature-rich messaging experience within the Apple ecosystem. Using iMessage on the iPhone 12, you can exchange text, photos, videos, and more with other Apple users. It provides various features like emojis, stickers, reactions, location sharing, and in-chat gaming for lively and interactive conversations. SMS, on the other hand, is the standard text messaging service that works across different platforms and devices but with fewer features compared to iMessage.
 
-1. - To send or receive text messages, open **Messages**.
-2. - To compose a new message, tap the pen icon, enter the recipient's name or contact number, type your message, and tap send.
-3. - Access the camera or attachments through the respective icons within the message screen.
-4. - Blue bubbles indicate messages sent using iMessage, while green indicates SMS.
+   1. To send or receive text messages, open **Messages**.
+   2. To compose a new message, tap the pen icon, enter the recipient's name or contact number, type your message, and tap send.
+   3. Access the camera or attachments through the respective icons within the message screen.
+   4. Blue bubbles indicate messages sent using iMessage, while green indicates SMS.
      
-     If Wi-Fi is not available, iMessage will be sent using mobile data. Standard data rates may apply.
+If Wi-Fi is not available, iMessage will be sent using mobile data. Standard data rates may apply.
      
-     ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/imessage_vs_sms.png).
+     <p align="center">
+     <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/imessage_vs_sms.png">
+     </p>
 
  ### 5. Camera and Photos:
  
@@ -207,7 +204,9 @@ iMessage offers a more versatile and feature-rich messaging experience within th
 - **Sharing Media** : Share photos or videos by opening them in the Photos app and tapping the share icon (a box with an arrow). Choose the sharing method 
   (Message,Mail, AirDrop, etc). To share multiple items, select them and tap the share icon. You can also share directly from the Camera or Messages apps.
 
-  ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/setting_iphone12_camera_and_photos.png)
+  <p align="center">
+  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/setting_iphone12_camera_and_photos.png">
+  </p>
 
  ### 6. Apps and Features:
 
@@ -223,13 +222,16 @@ iMessage offers a more versatile and feature-rich messaging experience within th
 **Features Explanation - Siri, Apple Pay, and Health:**
 
 - **Siri serves as your virtual assistant:**
-Siri acts as your virtual assistant, responding to "Hey Siri" or a button press. It sends messages, schedules meetings, and handles various tasks without needing your hands. From checking the weather to playing your favorite song, Siri can help. Control apps and perform complex tasks by speaking. Siri is your digital helper, making tasks easier and your digital life smoother.
+    Siri acts as your virtual assistant, responding to "Hey Siri" or a button press. It sends messages, schedules meetings, and handles various tasks without 
+    needing your hands. From checking the weather to playing your favorite song, Siri can help. Control apps and perform complex tasks by speaking. Siri is your 
+    digital helper, making tasks easier and your digital life smoother.
 
 - **Apple Pay:**
- Apple Pay facilitates secure and easy payments through your device. Set up payment methods and conduct secure transactions. Use Face ID to make payments in stores, apps, and online with your iPhone. Send or receive money through Messages using Apple Cash. Complete your purchases made with Apple Pay.
+    Apple Pay facilitates secure and easy payments through your device. Set up payment methods and conduct secure transactions. Use Face ID to make payments in 
+    stores, apps, and online with your iPhone. Send or receive money through Messages using Apple Cash. Complete your purchases made with Apple Pay.
 
 - **Health**:
- Health monitors and tracks your physical activity, enables goal setting for fitness, and provides insights into various health metrics.
+    Health monitors and tracks your physical activity, enables goal setting for fitness, and provides insights into various health metrics.
 
 Explore these features within their respective apps to maximize their benefits.
 

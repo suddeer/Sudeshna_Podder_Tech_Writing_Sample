@@ -121,7 +121,7 @@ Adjust settings by tapping or pressing these controls.
 
 <p align="center">
   <p align="center">
-  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_controlcenter_new.png" height="280" width="250">
+  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_controlcenter_new.png" height="320" width="280">
 </p>
 
 **Using Face ID for Authentication** :

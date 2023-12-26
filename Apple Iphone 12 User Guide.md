@@ -278,7 +278,7 @@ Explore these features within their respective apps to maximize their benefits.
 
   ### 8. Security and Privacy
 
-  ### Setting Up Security Measures
+  #### Setting Up Security Measures
 
  - **Strong Passcodes and Face/Touch ID:** Secure your device using a robust passcode or biometric authentication like Face ID or Touch ID. Configure these 
     settings in Settings > Face ID & Passcode or Touch ID & Passcode.

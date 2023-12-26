@@ -23,8 +23,10 @@ Making calls, managing contacts, and voicemail.
 Sending and receiving messages, using iMessage.
 
 ### 5. Camera and Photos
-Using the camera app, taking photos, and recording videos.  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_title.png" align="right" height="190" width="150">
+Using the camera app, taking photos, and recording videos.  
 Editing photos, organizing albums, and sharing media.
+
+<img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_title.png" align="right" height="190" width="150">
 
 ### 6. Apps and Features
 Overview of pre-installed apps (Safari, Mail, Maps, etc.).  

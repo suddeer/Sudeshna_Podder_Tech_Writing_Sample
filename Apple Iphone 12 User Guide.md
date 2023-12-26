@@ -276,7 +276,7 @@ Explore these features within their respective apps to maximize their benefits.
 
   ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/customising_iphone12.png)
 
-  ### 8. Security and Privacy
+### 8. Security and Privacy
 
   #### Setting Up Security Measures
 

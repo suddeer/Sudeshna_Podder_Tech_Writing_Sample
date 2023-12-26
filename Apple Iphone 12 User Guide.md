@@ -4,6 +4,10 @@
   <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/first_image_5iphones.jpg" alt="iPhone Image">
 </div>
 
+<div align="center">
+  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/first_image_5iphones.jpg" alt="iPhone Image">
+</div>
+
 ### 1. Introduction
 Overview of the iPhone 12 model.  
 Unboxing instructions and what is included.                       
@@ -63,7 +67,7 @@ Upon unboxing the iPhone 12, you will find the handset along with essential acce
 - One USB-C to Lightning cable utilized for charging and data transfer purposes
 - Accompanying documentation such as user guides and warranty information
 
-As part of our environmental efforts, the iPhone 12 packaging does not include a power adapter or EarPods. Instead, you'll find a USB‑C to Lightning cable for fast charging, compatible with USB‑C power adapters, and computer ports. 
+As part of our environmental efforts, the iPhone 12 packaging does not include a power adapter or EarPods. Instead, you will find a USB‑C to Lightning cable for fast charging, compatible with USB‑C power adapters, and computer ports. 
 
 You can use your existing USB‑A to Lightning cables, power adapters, and headphones with this iPhone 12. Apple power adapters or headphones are available for purchase separately if you want it.
 
@@ -124,7 +128,6 @@ cautious, as swiping too close to the center at the top might accidentally open 
 Adjust settings by tapping or pressing these controls.
 
 <p align="center">
-  <p align="center">
   <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_controlcenter_new.png" height="320" width="280">
 </p>
 

@@ -241,11 +241,16 @@ Explore these features within their respective apps to maximize their benefits.
 #### Configuring Device Settings:
 
 - Adjust settings for Wi-Fi, Bluetooth, display brightness, and sound preferences to personalize your iPhone 12 experience.
+  
 - Access the settings menu to connect to Wi-Fi networks, pair Bluetooth devices, adjust display settings for brightness and other display features, and manage
   sound preferences like ringtones and volume levels. Access handy tools like the flashlight, timer, or calculator instantly in Control Center.
+
 - On Face ID iPhones, swipe down from the top-right corner; for Home button iPhones, swipe up from the screen's bottom.
+  
 - Customize Control Center with extra tools like the alarm or magnifier in Settings > Control Center.
+  
 - You can showcase a favorite photo, add filters, and widgets, and even change the font of the date and time.
+  
 - To personalize your iPhone 12 lock screen, press and hold the Lock Screen, then tap Browse through options and select one to customize its appearance. Once
   you have created a lock screen you like, tap Add, then Set as Wallpaper Pair.
 

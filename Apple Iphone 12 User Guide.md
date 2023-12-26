@@ -115,7 +115,13 @@ Control Centre provides instant access to functions you like the most. It allows
 - **How to Open and Close Control Center**:
   
 On the iPhone 12, swipe down from the top right-hand corner of the screen to open the Control Center. To close it, swipe up from the bottom or tap the screen. Be
-cautious, as swiping too close to the center at the top might accidentally open Notification Centre instead of Control Centre. Adjust settings by tapping or pressing these controls.
+cautious, as swiping too close to the center at the top might accidentally open Notification Centre instead of Control Centre. 
+
+Adjust settings by tapping or pressing these controls.
+
+<p align="center">
+  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_controlcenter.png)">
+</p>
 
 **Using Face ID for Authentication** :
 

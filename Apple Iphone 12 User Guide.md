@@ -185,7 +185,7 @@ iMessage offers a more versatile and feature-rich messaging experience within th
      
 If Wi-Fi is not available, iMessage will be sent using mobile data. Standard data rates may apply.
      
-     <p align="center">
+<p align="center">
   <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/imessage_vs_sms.png">
 </p>
 

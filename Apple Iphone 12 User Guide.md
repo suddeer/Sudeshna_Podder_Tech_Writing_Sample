@@ -160,7 +160,7 @@ Face ID provides secure and convenient access to your device by scanning your un
    Note that Face ID isn't functional in landscape mode when a mask is worn.
 
 <p align="center">
-  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_setup_faceid_facemask_SMALL.png" height="320" width="280">
+  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/setup_faceid_with_facemasks.png" height="320" width="280">
 </p>
 
 ### 4. Phone and Messaging

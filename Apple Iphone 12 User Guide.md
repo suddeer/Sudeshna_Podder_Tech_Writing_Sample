@@ -97,8 +97,9 @@ You can use your existing USB‑A to Lightning cables, power adapters, and headp
 - Select how you would like to restore or transfer your data from your old device to the new one. You can use an iCloud backup, a computer backup, or move data
   from an Android device. If you do not have a backup or another device, choose "Don't Transfer Apps & Data".
 
-https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/combined_image.png
-  
+<p align="center">
+  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/combined_image.png">
+</p>
 
 ### 3. Interface and Navigation:
 

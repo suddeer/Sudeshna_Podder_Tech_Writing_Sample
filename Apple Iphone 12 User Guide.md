@@ -276,43 +276,41 @@ Explore these features within their respective apps to maximize their benefits.
 
   ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/customising_iphone12.png)
 
-  ## 8. Security and Privacy
+  ### 8. Security and Privacy
 
-### Setting Up Security Measures
+  ### Setting Up Security Measures
 
-- **Strong Passcodes and Face/Touch ID:** Secure your device using a robust passcode or biometric authentication like Face ID or Touch ID. Configure these 
+ - **Strong Passcodes and Face/Touch ID:** Secure your device using a robust passcode or biometric authentication like Face ID or Touch ID. Configure these 
     settings in Settings > Face ID & Passcode or Touch ID & Passcode.
   
-- **Find My iPhone:** Activate this feature in Settings > [Your Name] > Find My > Find My iPhone. It helps locate your device if lost, and keeps it locked to 
+ - **Find My iPhone:** Activate this feature in Settings > [Your Name] > Find My > Find My iPhone. It helps locate your device if lost, and keeps it locked to 
     prevent unauthorized access.
 
-- **Managing Access Without Unlocking:** You may select the features that can be accessed when your iPhone is locked, such as Control Center and USB connections.
+ - **Managing Access Without Unlocking:** You may select the features that can be accessed when your iPhone is locked, such as Control Center and USB connections.
 
-### Managing Privacy Settings
+ #### Managing Privacy Settings
 
-- **App Permissions:**
-  - Control what information your apps can access in **Settings > Privacy & Security**. Manage categories like Location Services, Contacts, Photos, and more by toggling permissions for each app.
+- **App Permissions:** Control what information your apps can access in **Settings > Privacy & Security**. Manage categories like Location Services, Contacts, 
+    Photos, and more by toggling permissions for each app.
+  
+- **Tracking Permissions:** Prevent apps from tracking your activity across other platforms. Open **Settings > Privacy & Security > Tracking** and disable "Allow 
+    Apps to Request to Track".
 
-- **Tracking Permissions:**
-  - Prevent apps from tracking your activity across other platforms. Open **Settings > Privacy & Security > Tracking** and disable "Allow Apps to Request to Track".
+- **Automatic App Updates:** Ensure your apps have the latest security features by enabling automatic updates in **Settings > App Store**.
 
-- **Automatic App Updates:**
-  - Ensure your apps have the latest security features by enabling automatic updates in **Settings > App Store**.
+- **Safari Privacy Settings:** Customize Safari's privacy features in **Settings > Safari**. Block pop-ups, prevent cross-site tracking, and manage cookie 
+    settings here.
 
-- **Safari Privacy Settings:**
-  - Customize Safari's privacy features in **Settings > Safari**. Block pop-ups, prevent cross-site tracking, and manage cookie settings here.
+- **Review App Permissions Regularly:** Periodically check and adjust app permissions to align with your preferences. Stop access for unused or untrusted apps.
 
-- **Review App Permissions Regularly:**
-  - Periodically check and adjust app permissions to align with your preferences. Stop access for unused or untrusted apps.
+### 9. Troubleshooting and Support
 
-## 9. Troubleshooting and Support
-
-### Resolving Common Issues
+#### Resolving Common Issues
 
 - **Solve Everyday Issues:**
   - Use personalized troubleshooting steps to fix various problems while using the iPhone 12. These steps provide effective solutions for different potential problems.
 
-### Getting Additional Support
+#### Getting Additional Support
 
 - **Access Extra Help:**
   - Get additional help and resources through Apple's official support channels like Apple Support, user forums, and online resources.

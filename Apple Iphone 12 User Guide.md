@@ -268,11 +268,11 @@ Explore these features within their respective apps to maximize their benefits.
 - **The iPhone 12 can make various sounds and vibrations** for phone calls, text messages, calendar alerts, and other notifications. To adjust these settings, 
   follow these steps. Open Settings, Tap on Sounds & Haptics. You can also personalize the sounds for specific contacts by going to the Contacts app, selecting a 
   person's name, tapping Edit, and then choosing Ringtone or Text Tone.
-- Your iPhone 12 offers lots of features to help with vision, physical abilities, hearing, and learning. You can change text size, make the touchscreen easier to 
-  use, control your iPhone using only your voice, and more. To personalize these
+- Your iPhone 12 offers lots of features to help with **vision, physical abilities, hearing, and learning**. You can change text size, make the touchscreen easier 
+  to use, control your iPhone using only your voice, and more. To personalize these
   settings, open Settings > Accessibility.
-- Your iPhone 12 is built to keep your privacy and information safety. You control which apps can track your activity across other apps and sites. Safety check   
-  you review and update who can access your info. Just open Settings > Privacy & Security, then tap Tracking or Safety Check.
+- Your iPhone 12 is built to keep your **privacy and information safety**. You control which apps can track your activity across other apps and sites. Safety 
+  check you review and update who can access your info. Just open Settings > Privacy & Security, then tap Tracking or Safety Check.
 
   ![iPhone Image](https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/customising_iphone12.png)
 
@@ -280,14 +280,13 @@ Explore these features within their respective apps to maximize their benefits.
 
 ### Setting Up Security Measures
 
-- **Strong Passcodes and Face/Touch ID:**
-  - Secure your device using a robust passcode or biometric authentication like Face ID or Touch ID. Configure these settings in **Settings > Face ID & Passcode** or **Touch ID & Passcode**.
+- **Strong Passcodes and Face/Touch ID:** Secure your device using a robust passcode or biometric authentication like Face ID or Touch ID. Configure these 
+    settings in Settings > Face ID & Passcode or Touch ID & Passcode.
+  
+- **Find My iPhone:** Activate this feature in Settings > [Your Name] > Find My > Find My iPhone. It helps locate your device if lost, and keeps it locked to 
+    prevent unauthorized access.
 
-- **Find My iPhone:**
-  - Activate this feature in **Settings > [Your Name] > Find My > Find My iPhone**. It helps locate your device if lost and keeps it locked to prevent unauthorized access.
-
-- **Managing Access Without Unlocking:**
-  - Select the features that can be accessed when your iPhone is locked, such as Control Center and USB connections.
+- **Managing Access Without Unlocking:** You may select the features that can be accessed when your iPhone is locked, such as Control Center and USB connections.
 
 ### Managing Privacy Settings
 

@@ -119,6 +119,10 @@ cautious, as swiping too close to the center at the top might accidentally open 
 
 Adjust settings by tapping or pressing these controls.
 
+<p align="center">
+  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_controlcenter.png">
+</p>
+
 **Using Face ID for Authentication** :
 
 Face ID provides secure and convenient access to your device by scanning your unique facial features for authentication.

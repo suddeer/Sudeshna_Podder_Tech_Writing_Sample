@@ -4,10 +4,6 @@
   <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/first_image_5iphones.jpg" alt="iPhone Image">
 </div>
 
-<div align="center">
-  <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/first_image_5iphones.jpg" alt="iPhone Image">
-</div>
-
 ### 1. Introduction
 Overview of the iPhone 12 model.  
 Unboxing instructions and what is included.                       

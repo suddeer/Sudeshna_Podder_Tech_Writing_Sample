@@ -4,43 +4,43 @@
   <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/New_first_images.jpg" alt="iPhone Image" width="300" height="220">
 </div>
 
-### 1. Introduction
+### 1. Introduction:
 Overview of the iPhone 12 model.  
 Unboxing instructions and what is included.                       
 
-### 2. Getting Started
+### 2. Device Operation: Powering On and Off:
 Turning the device on and off.            
 Initial setup process: language, Wi-Fi, and Apple ID. 
 
 <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_blue_title.png" align="right" height="190" width="150">
 
-### 3. Interface and Navigation
+### 3. Interface and Navigation:
 Understanding the home screen, gestures, and Control Center.  
 Using Face ID for authentication.
 
-### 4. Phone and Messaging
+### 4. Phone and Messaging:
 Making calls, managing contacts, and voicemail.  
 Sending and receiving messages, using iMessage.
 
-### 5. Camera and Photos
+### 5. Camera and Photos:
 Using the camera app, taking photos, and recording videos.  
 Editing photos, organizing albums, and sharing media.
 
 <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_red_title.png" align="right" height="190" width="150">
 
-### 6. Apps and Features
+### 6. Apps and Features:
 Overview of pre-installed apps (Safari, Mail, Maps, etc.).  
 Explaining features like Siri, Apple Pay, and Health.
 
-### 7. Settings and Customization
+### 7. Settings and Customization:
 Configuring settings for Wi-Fi, Bluetooth, display, and sounds.  
 Customizing wallpapers, notifications, and accessibility options.
 
-### 8. Security and Privacy
+### 8. Security and Privacy:
 Setting up security measures such as passcodes and Face ID.  
 Managing privacy settings for apps and data.
 
-### 9. Troubleshooting and Support
+### 9. Troubleshooting and Support:
 Common issues and troubleshooting steps.
 
 
@@ -67,11 +67,12 @@ As part of our environmental efforts, the iPhone 12 packaging does not include a
 
 You can use your existing USB‑A to Lightning cables, power adapters, and headphones with this iPhone 12. Apple power adapters or headphones are available for purchase separately if you want it.
 
-### 2. Getting Started:
+### 2. Device Operation: Powering On and Off:
 
 **Turning the device ON and OFF**
    
-1. To power off your device, press and hold the volume button and the side button until the power-off slider appears.
+1. To power off your device, press and hold the volume button (on the left-hand side of your
+iPhone) and the side button (on the right-hand side of your iPhone) uuntil the power-off slider appears.
 <p align="center">
   <img src="https://github.com/suddeer/Sudeshna_Podder_Tech_Writing_Sample/blob/main/iphone12_press_button_restart.png" alt="iPhone Image" height="200" width="250">
 </p>
